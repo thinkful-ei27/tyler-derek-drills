@@ -1,5 +1,6 @@
 import React from 'react';
 
+// Connect this component
 export default function InterestCalculator(props) {
     return (
         <form className="interest-calculator"
